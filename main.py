@@ -1,4 +1,4 @@
 nombre = "Cesar"
 apellido = "Navarro"
-
-print("Hola", nombre, apellido)
+edad = 26
+print("Hola", nombre, apellido,"tengo", edad,"años")
